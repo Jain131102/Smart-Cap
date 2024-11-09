@@ -1,5 +1,3 @@
-# AIzaSyCTlVj4I6xzkpEyMaPZtP5JrpHae21I4Rc
-
 # pip install requests gtts pygame SpeechRecognition
  
 import requests  # To handle HTTP requests
@@ -154,7 +152,7 @@ def speak_directions(directions):
         time.sleep(1)
 
 # Example Usage
-google_api_key = 'AIzaSyCTlVj4I6xzkpEyMaPZtP5JrpHae21I4Rc'  # Replace with your actual Google Cloud API key
+google_api_key = 'api_key'  # Replace with your actual Google Cloud API key
 
 # Get the current location (latitude, longitude) using Google Cloud Geolocation API
 origin_lat, origin_lon = get_current_location(google_api_key)
