@@ -10,7 +10,7 @@ from io import BytesIO
 import pygame
 class JarvisAssistant:  
     def __init__(self):
-        genai.configure(api_key='AIzaSyAa4ygLGWZJaUKSubVdiQGhWS66Oc3sjQg')  # Replace with your actual API key
+        genai.configure(api_key='Your api key')  # Replace with your actual API key
         self.model = genai.GenerativeModel('gemini-1.5-pro-002')
         self.recognizer = sr.Recognizer()
 
