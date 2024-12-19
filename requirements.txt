@@ -1,0 +1,11 @@
+speech_recognition
+google-generativeai 
+pyttsx3
+gtts
+pygame
+requests
+beautifulsoup4
+yt-dlp
+mpv
+notify-send
+playsound
