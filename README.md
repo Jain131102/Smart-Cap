@@ -39,3 +39,16 @@ The **Smart Cap** is an innovative wearable device that transforms a simple cap 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Jain131102/Smart-Cap.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Smart-Cap
+   ```
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. Run the setup script:
+   ```bash
+   setup.sh
+   ```
