@@ -7,6 +7,7 @@ The **Smart Cap** is an innovative wearable device that transforms a simple cap 
 - **Hands-Free Navigation**: Get real-time directions using Google Maps.
 - **Object Recognition**: Identify objects in your surroundings with AI.
 - **Voice Interaction**: Interact through voice commands for various tasks.
+- **AI Chat Assistant**: Use Gemini AI to chat and find information on the go.
 - **Weather Updates**: Receive real-time weather information.
 - **Multimedia Support**: Play music and access other multimedia features.
 
