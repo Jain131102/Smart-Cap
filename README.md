@@ -21,7 +21,7 @@ The **Smart Cap** is an innovative wearable device that transforms a simple cap 
 - **Cap Structure**: Physical structure to house the components.
 
 ### Software
-- **Gemini AI**: Powers voice interactions.
+- **Gemini API**: Facilitates AI Chat Assistant.
 - **Google Maps API**: Facilitates navigation features.
 - **TensorFlow Lite**: Used for object recognition.
 
