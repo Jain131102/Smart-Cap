@@ -78,3 +78,7 @@ The **Smart Cap** is an innovative wearable device that transforms a simple cap 
 - [Google Text-to-Speech](https://cloud.google.com/text-to-speech)
 - [PyTorch](https://pytorch.org/)
 - [Pygame](https://www.pygame.org/news)
+
+## License
+This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
+
