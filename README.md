@@ -52,3 +52,29 @@ The **Smart Cap** is an innovative wearable device that transforms a simple cap 
    ```bash
    bash setup.sh
    ```
+
+## Usage
+
+1. **Power on the Smart Cap**: Ensure the device is powered on and ready for use.
+2. **Interact with the Assistant**: Use voice commands to interact with the assistant for various tasks.
+3. **Access the Menu System**: Navigate through the menu for tasks like navigation, object recognition, and multimedia playback.
+
+## Demo
+
+[Watch the demo video](https://drive.google.com/drive/folders/1L7OMiA4udsOSYj4fNBuk2qjQIA-oRngw?usp=sharing)
+
+## Future Scope
+
+- Enhanced object detection for better accuracy.
+- Offline map capabilities for travel and navigation.
+- Integration with advanced AI technologies.
+
+## References
+
+- [Raspberry Pi](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/)
+- [OpenCV](https://opencv.org/)
+- [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/start)
+- [SpeechRecognition Library](https://pypi.org/project/SpeechRecognition/)
+- [Google Text-to-Speech](https://cloud.google.com/text-to-speech)
+- [PyTorch](https://pytorch.org/)
+- [Pygame](https://www.pygame.org/news)
