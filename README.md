@@ -50,5 +50,5 @@ The **Smart Cap** is an innovative wearable device that transforms a simple cap 
    ```
 4. Run the setup script:
    ```bash
-   setup.sh
+   bash setup.sh
    ```
